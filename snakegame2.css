@@ -1,0 +1,12 @@
+h1,h2,canvas{
+    text-align: center;
+    color: white;
+}
+canvas{
+    background-color: black;
+    transform: translateX(565px);
+}
+body{
+    background-color: brown;
+    margin: 0;
+}
